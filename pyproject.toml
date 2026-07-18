@@ -1,0 +1,14 @@
+[project]
+name = "litparse-rapidocr"
+version = "0.1.0"
+description = "litserve litparse ocr service"
+readme = "README.md"
+requires-python = ">=3.12,<=3.14"
+dependencies = [
+    "litserve>=0.2.17",
+    "rapidocr>=3.9.1",
+    "pillow>=12.1.1",
+    "onnxruntime>=1.23.2",
+    "python-multipart>=0.0.22",
+    "uvicorn>=0.41.0",
+]
