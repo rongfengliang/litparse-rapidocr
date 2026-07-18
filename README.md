@@ -1,6 +1,6 @@
 # litparse-rapidocr
 
-基于 [LitServe](https://github.com/Lightning-AI/litserve) 和 [RapidOCR](https://github.com/RapidAI/RapidOCR) 的高性能 OCR 推理服务，为 [LitParse](https://github.com/Lightning-AI/litparse) 提供文档文字识别能力。
+基于 [LitServe](https://github.com/Lightning-AI/litserve) 和 [RapidOCR](https://github.com/RapidAI/RapidOCR) 的高性能 OCR 推理服务，为 [LitParse](https://github.com/run-llama/liteparse) 提供文档文字识别能力。
 
 ## 技术栈
 
